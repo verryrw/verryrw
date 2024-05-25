@@ -1,6 +1,8 @@
 ### Hi there 👋
-![ryan gosong](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3gyeHljNHcwM3FydjJiMHk1Ym01ZnFqenUxMWNqdnMwMHk1bjlndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExtWSZEgiJUaoU0/giphy.gif)
 
+![](https://komarev.com/ghpvc/?username=verryrw)
+
+![ryan gosong](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c2ZG1kMG90eWtxNDQ0N3EzcWNjZDJhb2J2aWVlanZ5N3QzdTB6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtXWChRfsZX1z3rOGn/giphy.gif)
 <!--
 **verryrw/verryrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
