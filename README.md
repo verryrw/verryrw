@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=verryrw)
 
 ![ryan gosong](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c2ZG1kMG90eWtxNDQ0N3EzcWNjZDJhb2J2aWVlanZ5N3QzdTB6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtXWChRfsZX1z3rOGn/giphy.gif)
+
+<img align="center" src="https://github.com/verryrw/verryrw/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 <!--
 **verryrw/verryrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
